@@ -1,0 +1,11 @@
+.title{
+    color:forestgreen;
+}
+
+div > input[type=number]{
+    position: relative;
+    width:auto;
+    padding:12px 20px;
+    margin:8px 0;
+    box-sizing:content-box;
+}
